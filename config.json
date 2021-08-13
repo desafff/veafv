@@ -1,0 +1,25 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 2
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "wrkzcoin",
+            "host": "192.168.43.54",
+            "niceHash": true,
+            "password": "x",
+            "port": 44524,
+            "priority": 0,
+            "rigID": "sukses",
+            "ssl": false,
+            "username": "TRX:WALLET"
+            
+        }
+        
+    ]
+}
